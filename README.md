@@ -32,7 +32,7 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - CSS Flex
-- JavaScript
+- JavaScript ES6
 - font style (https://fonts.googleapis.com/css?family=Fira+Sans:900|Merriweather&display=swap) 
 
 
