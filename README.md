@@ -4,6 +4,7 @@ This is a Project for creating a landing page template.
 
 ## Table of contents
 
+- [Links]
 - [Overview.]
 - [The Template]
 - [Built with]
@@ -11,6 +12,8 @@ This is a Project for creating a landing page template.
 - [Useful resources]
 - [Coded By]
 
+### Links
+- Live Site URL:(https://anansoli.github.io/Landing-Page-and-Manipulating-the-DOM/)
 
 ## Overview
 
@@ -60,9 +63,9 @@ Users should be able to:
    created a footer using (footer) Tag
 
 ### Useful resources 
-(https://www.youtube.com/)
-(https://www.w3schools.com/)
-(https://developer.mozilla.org/en-US/)
+-(https://www.youtube.com/)   
+-(https://www.w3schools.com/)   
+-(https://developer.mozilla.org/en-US/)   
 
 ## Coded By
 - Anan Ahmed 
