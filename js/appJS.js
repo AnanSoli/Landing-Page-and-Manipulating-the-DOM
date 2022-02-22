@@ -82,7 +82,7 @@ navList.insertAdjacentHTML(
 );
 // styling
 document.getElementById("topAnchor").style =
-  "padding: 13px 17px;background-color: #0000009c;color: wheat;";
+  "padding: 13px 17px;background-color: #0000009c;color: wheat;scroll-behavior: smooth;";
 
 
 
@@ -98,7 +98,5 @@ document.querySelectorAll('a.links').forEach((anchor) => {
   });
 });
 
-// and by the way if we did'nt make this scrolling event listner it will still work the same cause i added in the css html {scroll-behavior: "smooth"} , 
-// i added the above method as to satisfy the project requirements.
 
 
