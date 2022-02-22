@@ -73,19 +73,6 @@ let addActiveClass = function (id) {
 
 
 
-
-// i thought of adding this button in the bar to make it easier to get back to the top from anywhere in the page
-
-navList.insertAdjacentHTML(
-  "afterbegin",
-  `<a id="topAnchor" href="#top">Top</a>`
-);
-// styling
-document.getElementById("topAnchor").style =
-  "padding: 13px 17px;background-color: #0000009c;color: wheat;scroll-behavior: smooth;";
-
-
-
 // to scroll to sections smothly i made an array for [a] and got forEach to loop over each a
 // then with each a i made eventlistener  
 
